@@ -1,0 +1,3297 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+x UATAUAVAWH
+D$dH
+D$\D
+d$xf9
+D$Pf
+T$PA
+D$PfA9
+9\$d
+\$hL
+L$h3
+L$hH
+L$0L
+L$pH
+L$(3
+L$@E3
+L$xI
+L$8H
+L$0H
+9\$d
+9\$\
+A_A^A]A\]
+D$PA
+D$Pf9
+x ATAVAWH
+u-A;
+fD9 u
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+D$`H
+L$`H3
+T$(D
+D$ L
+UVWATAUAVAWH
+T$PH
+T$XH
+T$`H
+gfff
+D$lH
+D$jI
+L$HH
+L$@H
+D$8H
+D$0D
+D$(L
+fD9,~u
+A_A^A]A\_^]
+t$ WH
+T$0H
+IpE3
+T$8E3
+L$03
+L$8f9
+\$@H
+t$HH
+Npu
+\$0H
+l$8H
+t$@H
+x UH
+L$0L
+D$0H
+D$8E3
+D$(D
+D$@H
+D$ H
+f9(u$H
+\$0H
+l$8H
+t$@H
+f9,xu
+@SUVWATAUAVAWH
+L$PA
+\$8L
+t$4D
+|$0fE99
+l$@D8=DN
+fG9,~u
+D$0D
+4FfE9>
+A_A^A]A\_^][
+L$ D
+D$<I
+f9,Au
+f9,yu
+D$PA
+T$4H
+L$@3
+D$0H
+T$4H
+L$HH
+T$`D
+D$<H
+t$4H
+l$@I
+UVWATAUAVAWH
+L$@E
+T$HH
+T$PH
+fD9M
+D$(3
+A_A^A]A\_^]
+\$(L
+\$ L
+\$(L
+|$ L
+t$ WATAUAVAWH
+T$ E
+fD9$xu
+A_A^A]A\_
+D$@H
+SVWH
+L$XE3
+t$XL
+D$PH
+L$XH
+ _^[
+x	9\$P
+\$@H
+@SVWH
+D$`A
+D$ L
+D$XH
+0_^[
+T$ H
+D$ H
+T$HH
+HcT$ L
+t$ WH
+D$0H
+tE3
+\$83
+l$@H
+t$HH
+\$0H
+l$8H
+t$@H
+WATAUAVAWH
+fD9>tLE
+fD9<nu
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+\$ UVWATAUAVAWH
+KxE3
+fD9,^u
+fD9,Vu
+^fD9+
+fD9,Cu
+fD9lC
+fD9,Cu
+fD9,Su
+fD98
+A_A^A]A\_^]
+fD9lM
+fD9,xu
+t$ WH
+D$0H
+L$095
+t$HH
+l$@H
+\$0H
+VWAVH
+T$`H
+L95n
+|$0H
+t$(E3
+3D9u
+T$`H
+\$hH
+l$pH
+@A^_^
+\$0H
+x AVH
+@85}9
+l$8H
+\$0H
+t$@H
+|$HH
+\$0H
+t$8H
+x ATAVAWH
+fE9<\u
+MxE3
+fD98tcH
+fD9<Cu
+fD9;u
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+ v5f98
+H9=W4
+\$PH
+|$XH
+x AVH
+f9(t	H
+8 v5H
+fD90
+\$PH
+l$XH
+|$hH
+x AVH
+f9(t	H
+8 v5H
+fD90
+\$PH
+l$XH
+|$hH
+x AVH
+f9(t	H
+8 v5H
+fD90
+\$PH
+l$XH
+|$hH
+x AVH
+fD90t	H
+8 v;H
+\$PH
+l$XH
+|$hH
+f90t	H
+8 v'H
+\$PH
+x AVH
+fD90t	H
+8 v;H
+\$PH
+l$XH
+|$hH
+x AVH
+fD90t	H
+8 vDH
+\$PH
+l$XH
+t$`H
+UVWH
+f90tH
+\$pH
+@_^]
+D$`H
+T$`H
+L$0H
+f90t	H
+8 v4H
+UVWH
+)t$@H
+f9(tH
+2f9(
+D$pH
+f9(tH
+f9(tH
+8=ulH
+T$ H
+T$pH
+T$pH
+T$ f
+t$ H
+(t$@H
+P_^]
+x AVH
+f9(tH
+f9(t?H
+8 v6
+\$0H
+l$8H
+t$@H
+|$HH
+@SUVWAVH
+D$`H
+T$ I
+L$`H3
+pA^_^][
+\$ UVWATAUAVAWH
+D$XH
+L$0A
+fA9LF
+T$0H
+L$XH3
+`A_A^A]A\_^]
+WAVAWH
+l$HH
+t$PH
+ A_A^_
+ v	H
+D$`H
+\$0H
+D$`H
+C@	p8H
+t$8H
+\$0H
+\$ UVWATAUAVAWH
+\$0H
+D$(L
+D$ H
+A_A^A]A\_^]
+D$@L
+D$8H
+D$0H
+D$(H
+fD9DG
+t$ WATAUAVAWH
+fD9$yu
+t$0fB
+fF9$xu
+A_A^A]A\_
+MxE3
+MxE3
+4FE3
+l$<I
+L$8L
+l$0H
+D$@H
+9$<
+D$8D
+x ATAVAWH
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+x ATAVAWH
+~	A+
+\$`H
+l$hH
+t$pH
+|$xH
+@A_A^A\
+fD9<Gu
+fD9<Ou
+L$H3
+L$Hf
+D$J:
+\$8L
+L$@H
+\$0H
+T$`H
+\$(H
+L$HA
+L$ SUVWH
+(_^][
+T$8H
+T$8H
+|$8:
+D$8H
+WAVAWH
+|$(L
+t$ L
+A_A^_
+USVWATAUAVAWH
+fA91
+tzf;
+ }#;
+Hc}oH
+fE9DE
+u	fD
+HcMo3
+HcMoH
+EwtP
+LcEoL
+fA9}
+HcMoH
+A_A^A]A\_^[]
+fE9LE
+|$(L
+L$ H
+f90t+3
+t$8H
+\$0H
+x AVH
+YxE3
+\$0H
+l$8H
+t$@H
+|$HH
+UVWATAUAVAWH
+D$8A
+T$ D
+d$ E3
+@fB9Ds
+fD94Cu
+L$8H3
+@A_A^A]A\_^]
+WATAUAVAWH
+d$pI
+|$`L
+|$xI
+\$lL
+|$0L
+|$(H
+L$l3
+D$xH
+D$HH
+D$@L
+|$8H
+\$ E3
+D$`H
+D$hD
+DD$`H
+L$0H
+L$`H
+D$ M
+D$PH
+D$HL
+|$@H
+\$(H
+L$`H
+H!|$`I
+A_A^A]A\_
+\$0H
+\$0A
+t$8H
+VWATAVAWH
+fD94Vu
+fD94Au
+9&t}f
+A_A^A\_^
+f9<Bu
+\$0@
+f9(t
+f9)u
+\$0H
+l$8H
+t$@H
+\$0H
+l$8H
+t$@H
+D$ /
+T$ A
+L$8H3
+@USVWATAUAVAWH
+D8-(
+D$PH
+\$`L
+:~td
+t;I+
+A_A^A]A\_^[]
+D$PD9(H
+l$8L
+|$Hf
+t$`I+
+H+|$@H
+D$PH
+L$0A
+D$0L
+$>A:
+t$0H
+L$0H
+f90t7
+t$8H
+\$0H
+|$ AVH
+\$0H
+l$8H
+t$@H
+|$HH
+T$ H
+T$ H
+l$0H
+\$8H
+t$@H
+;8t\H
+@SATAWH
+l$XH
+t$ H
+l$XL
+t$ H
+0A_A\[
+0A_A\[
+0A_A\[
+t$`3
+|$hH
+!t f
+D$PH
+4FHcD$PH
+|$hH
+t$`L
+HcD$PH
+WATAUAVAWH
+T$ I
+D$0/
+T$0I
+t$ f
+A_A^A]A\_
+UVWATAUAVAWH
+fD94Au
+A_A^A]A\_^]
+s/fD
+/t9A
+f9,Bu
+\$0H
+l$8H
+t$@H
+f9,Bu
+Jf9)t
+f9,Au
+WAVAWH
+L9="
+\$@H
+l$HH
+t$PH
+ A_A^_
+WATAUAVAWH
+D9#u
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+\$8H
+\$0H
+l$8H
+t$@H
+L$ UATH
+|$HL
+l$@Ic
+|$0M
+t$PI
+t$8f
+%tyf
+t$8H
+t$PH
+\$pH
+|$HL
+l$@L
+|$0H
+XA\]
+D$xL
+tcHcL$xH
+l$xA
+XA\]
+GpLc
+H9_x
+\$0H
+t$8H
+\$0H
+f98t
+\$0H
+SVWATAUAVAWH
+t$(E
+D$(H
+t f;
+D$0H
+D$pH
+L$xM
+|$XM
+t3fE
+L$XH
+D$pH
+L$xH
+D$ I
+D$ H+
+t$8L
+L$ H
+L$@f
+L$ H+
+\$hH+
+t$(H
+t$PI
+l$Hff
+|$HH
+t$Pf
+|$0M
+L$ E3
+L$ f
+L$ E3
+L$ f;
+ucH+
+|$HJ
+t$PH
+L$XI
++D$hHc
+A_A^A]A\_^[
+tmHc
+9=Mg
+\$0H
+l$8H
+@SVAUH
+L$ H
+d$0L
+L$ H+
+A]^[
+WAVAWH
+\$@H
+l$HH
+ A_A^_
+UVATAVAWH
+t$P3
+|$XE
+fD99t~D9=
+fD9|]
+D8=@a
+D$PH
+|$XH
+\$`H
+ A_A^A\^]
+ M9>
+SATAUAVH
+L$PH
+d$@L
+t$XE
+T$`E
+L$@L
+d$ A
+<t*
+D$ D
+D$@L
+fD9%
+fD9d$`
+?:t5H
+A^A]A\[
+;D$L
+|$ AVH
+3t>E3
+\$0H
+l$8H
+t$@H
+|$HH
+\$ D
+UVWATAUAVAWH
+|$pH
+|$xA
+|$ H
+fD9 
+fD9 
+0A_A^A]A\_^]
+|w7A
+UVWATAUAVAWH
+D9%9
+fE9$wu
+fE9$Gu
+MHE3
+\$pH
+ A_A^A]A\_^]
+fG9dw
+@VAVH
+t$xI
+d$@M
+|$HM+
+l$PA
+l$8L
+|$0D
+L$pf
+%tqf
+t$xfD
+l$8H
+l$PL
+|$0H
+|$HL
+d$@H
+XA^^
+D$ L
+D$pH
+D$pH
+CHcD$pH
+4/E;
+HcD$pE3
+\$ H
+t/H;
+u4H;
+\$ H
+\$ H
+\$0H
+t$8H
+t$ WH
+L$0H
+|$0H
+f90t/3
+L$0H
+|$0H
+l$@H
+\$8H
+t$HH
+t$ WATAVH
+|$@3
+|$@H
+\$HH
+l$PH
+t$XH
+ A^A\_
+tffA
+<tXH
+\$ f
+)u H
+wUL+
+\$0H
+\$0H
+t$ WATAUAVAWH
+L$p~5H
+<t#
+t$(D
+l$ A
+\$`H
+l$hH
+t$xH
+0A_A^A]A\_
+\$0H
+T$8H
+\$0H
+t$8H
+tUHc
+\$0H
+\$ <
+\$ H
+\$ H
+UVWATAUAVAWH
+ct}f
+rtmf
+fE9,
+upfD90
+fD94{u
+A_A^A]A\_^]
+L$ H
+USVWH
+L$8H
+L$0H
+L$(H
+G(D9
+L$`D
+|$`H
+L$xD
+L$`H
+D$xH
+t$HH
+t$@H
+t$8H
+t$0H
+D$T9u
+D$T;E
+L$xH
+9t$P
+_^[]
+D$X=
+T$XH
+D$HH
+D$@H
+D$8H
+D$0H
+\$0H
+t$ WH
+\$0H
+l$@H
+t$HH
+f9,Yu
+t5Hc
+\$@H
+l$HH
+t$PH
+\$0H
+t$8H
+\$ UVWATAUAVAWH
+IpE3
+t$4A
+fD9<xu
+D8=>
+L$`A
+L$`H
+D$P\
+L$`fD
+|$RH;
+fD9;
+D$`L
+t$8I
+L$`H
+fD9<Gu
+t<Hc
+\$@3
+9D$0
+fB9<{u
+@8=m
+d$@E3
+D$HH
+T$8M
+\$8M
+D$PH
+fA9L}
+fA9E
+T$4D
+A_A^A]A\_^]
+T$4L
+\$HD
+L$ I
+T$4L
+|$0H
+D9D$0u%
+t.L+
+|$0A
+|$0H
+@WAUAVAWH
+D$ D
+T$$L
+\tMH
+A_A^A]_
+T$0f
+l$\H
+|$ I
+\$0H
+p UH
+D$ E3
+@UAUH
+\$P3
+t$XL
+|$`H
+d$0H
+f9,Yu
+d$0I
+|$`H
+t$XA
+\$Pf
+\tyf
+8A]]
+UVWATAUAVAWH
+D$0A
+D$XA
+T$HH
+D$@D
+\$<D
+D$`D
+l$8D9o
+D$hH
+D$(I
+\$ H
+l$hfff
+|$PD
+fE9tG0u
+fD97
+fD94Gu
+|$Pf#
+t$pH
+L$DL
+D$`A
+l$8H
+D$`D;o
+\$<H
+G0D9w$v
+D;W$r
+t$xH
+A_A^A]A\_^]
+D$XH
+D$0H
+L$0I
+D$HH
+L$0I
+D$HH
+D$0H
+D$0H
+x UATAUAVAWH
+L$PE
+t$PE3
+M9&u
+L$XD
+t$XH
+D8f 
+T$HI
+D$@I
+D$8L
+d$0H
+L$ H
+\$PE3
+\$PH
+A_A^A]A\]
+t$ WH
+D$0H
+D$(H
+D$@H
+D$ E
+D$lI
+fB94@u
+D$lH
+VWAVH
+fA9<Vu
+fA9<Fu
+L$PL
+l$HH
+ A^_^
+UVWATAUAVAWH
+L$ E3
+D$0E3
+L$0I
+D$ A
+A_A^A]A\_^]
+SVWATAUAVAWH
+T$HD
+|$h3
+|$@H
+t$h@8=O
+|$0L
+D$0H
+D$ M
+T$@H
+9D$0u
+|$HD
+f9<Fu
+f9<Nu
+f9<Au
+8@8=*
+f98tDA
+}-M
+fA9<@u
+fA98u
+A_A^A]A\_^[
+"tEfA
+<@;I
+<@;I
+WATAUAVAWH
+d$(D
+D$8E3
+fD9$Cu
+D$0H;
+T$PA
+D$D:
+L$0L
+D$PA
+fD9d$P
+f9|$R
+D$PH
+fD9$pu
+D$PH
+D$0H
+L$VH;
+D8%O
+fD;|$Bu
+T$PH
+D$ H
+D$ H
+D$ H
+A_A^A]A\_
+@SUVWAVH
+D$(3
+L$(H3
+0A^_^][
+D$$:
+f9+u
+f9(t
+\$0H
+l$8H
+t$@H
+\$0H
+t$ WATAVH
+A^A\_
+D$ D
+D$ f;
+D$"f;
+D$ D
+f9l$ 
+|$ UATAUAVAWH
+D$@D
+D$8A
+D$ E3
+L$8H
+D$4H
+D$(L
+L$0H
+D$PD
+d$0E3
+D$ H
+L$8H
+D$4H
+D$(L
+L$0H
+D$ H
+D9d$P
+L$8H
+D$4H
+D$(L
+L$0H
+D$ H
+L$8H
+D$4H
+D$(L
+L$0H
+D$ H
+D$Pf
+L$8H
+D$4H
+D$(L
+L$0H
+D$ H
+L$Pf
+L$8H
+D$4H
+D$(L
+L$0H
+D$ H
+D$Pf
+fA;
+L$8H
+D$4H
+D$(L
+L$0H
+D$ H
+A_A^A]A\]
+\$0H
+l$8H
+|$@H
+WAVAWH
+|$(3
+T$ I
+0u{H
+L$(H
+T$8H;
+u4H;=&
+u+H;
+u"H;
+\$PI
+A_A^_
+\$0H
+L$0H3
+\$PH
+t$XH
+|$ A
+\$@H
+l$HH
+|$(L
+fE9<nu
+fD9<{u
+t$PD9=
+fD9<Cu
+t$PI
+t$ I
+|$(H
+l$HH
+\$@H
+<s=u
+\$0H
+D$(f
+L$ 3
+L$ f
+D$":
+L$(H3
+t$ WAVAWH
+;:tbf9+u5H;
+fD98
++D9=
+A_A^_
+D$8H
+L$8H3
+\$XH
+t$`H
+UVWATAUAVAWH
+|$0D
+d$ 3
+t$0D
+\$(E3
+A_A^A]A\_^]
+1fA;
+UVWATAUAVAWH
+0A_A^A]A\_^]
+t-E3
+t$8H
+\$0H
+t$0H
+H SWH
+t$ WH
+L$HD
+9|$H
+\$@H
+l$PH
+t$XH
+H!\$ L
+L$HH
+T$8H
+\$0H
+x AUAVAWH
+l$(L
+\$`H
+l$hH
+t$pH
+|$xH
+@A_A^A]
+\$0H
+l$8H
+t$@H
+@USVWATAVAWH
+4FD+
+A_A^A\_^[]
+8:u@H9-
+\$0H
+l$8H
+t$@H
+r9fA;
+\$0H
+D$`H
+|$hH
+L$`A
+L$`A
+\$@H
+l$HH
+|$PH
+L$`A
+T$`H
+\$0H
+@SUVWATAVAWH
+l$ A
+D$ D
+e:fA
+}\fD9c
+fE98u
+fD9{
+fD9c
+A_A^A\_^][
+D$0H
+L$PH
+D$@H
+|$(E3
+D$ E3
+WAVAWH
+fF9<Au
+t)fD
+\$@H
+t$PH
+l$HH
+ A_A^_
+L$8H3
+\$XH
+t$`H
+x UH
+t$(H
+t$0H
+D$8A
+t$@H
+t$PH
+t$`H
+t$pH
+T$ H
+@t	%
+\$0H
+@SUVWAUAVAWH
+z@E3
+A_A^A]_^][
+t$ WATAUAVAWH
+L$hH
+D$hH
+L$hD
+G(9G
+\$`H
+l$pH
+t$xfD
+0A_A^A]A\_
+T$ H
+@SUVWATAVAWH
+D$ H
+fD9dE
+s`fE
+fE9$Gu
+L$ I
+fF9$qu
+D$ H
+A_A^A\_^][
+` AUAVAWH
+g.A;
+fD9;u@f
+s[fD
+\$@H
+t$HH
+|$PL
+d$XH
+ A_A^A]
+fD9#t
+fD9;t
+UVWATAUAVAWH
+T$`L
+G@E3
+|$@A
+\$|A
+\$TD
+l$PA
+l$tD
+l$hD
+l$XH
+D$xD
+D$HL
+D9-?
+L$lL
+D$TD
+L$(H
+\$ E
+\$ H
+D$0L
+L$DD
+|$(A
+\$`3
+H9C@t=9
+L$ L
+|$TH
+L$XE3
+L$pE
+D8JT
+D9S3
+|$@D
+L$hD
+T$DH
+\$(H
+D$ E3
+9|$hu*H
+t&9=
+T$`L
+t$PI
+A_A^A]A\_^]
+D$@E3
+L$hA
+9D$l
+BL$l
+D$@D
+D$@D
+L$DH
+T$ H
+tj9L$DA
+D$DL
+D$D9E
+|$@3
+t!E3
+T$0H
+\$8H
+t$@H
+t=L+
+UVWATAUAVAWH
+u8Y!u
+L$ A
+A_A^A]A\_^]
+UVWH
+D$(@P
+D$0H
+T$8D
+@USVWATAUAVAWH
+L$XA
+D$@E3
+D$DI
+D$@H
+A_A^A]A\_^[]
+t$ WH
+D$ H
+D$ H
+WAVAWH
+\$@H
+l$HH
+t$PH
+ A_A^_
+\$0H
+t$ WH
+D$PA
+\$@H
+t$XH
+t$8H
+\$PH
+l$XH
+t$`H
+fA9<@u
+f9|H,u
+l$8H
+t$@H
+UAVAWH
+|$ L
+\$hH
+@A_A^]
+D$0H
+@8=zC
+|$2:
+D$ f
+D$ H
+tAf;
+D$0H
+D$(H
+D$@3
+D$ H
+\$0L
+T$@A
+@USVWATAUAVAWH
+L$PL
+T$pH
+D$x*
+T$xf
+\$|H
+t$PH
+L$XD
+|$0H
+L$h9
+D$PH
+D$pH
+D$8H
+D$8+
+D$8A
+L$HL
+D$@H
+9\$Ht
+D$49\$<
+L$PL
+L$4H
+A_A^A]A\_^[]
+D$PL
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+UVWH
+D$0H
+f94Cu
+f94{u
+L$HH
+L$HH
+D$DH
+D$8L
+D$PH
+D$0H
+T$@H
+D$`H
+D$DH
+T$`L
+L$PH
+VWAVH
+@8-}<
+f9,Wu
+A^_^
+UVWATAUAVAWH
+fD98
+fD9<Gu
+fD9|G
+D9=+U
+|$0H
+A_A^A]A\_^]
+WATAUAVAWH
+D$08
+|$[fD9?
+fD9o
+A_A^A]A\_
+f9t]
+\$0H
+l$8H
+t$@H
+\$0H
+l$8H
+t$@H
+\$pH
+T$ 3
+\$ H
+\$0H
+\$@H
+\$PH
+\$`H
+\$pH
+VWATAVAWH
+L$PA
+|$PH
+L$@H
+A_A^A\_^
+L$`L
+D$`A
+UVWATAUAVAWH
+D$8A
+T$ D
+t$ E3
+fF9lw
+fD9,Gu
+fF9lw
+L$8H3
+@A_A^A]A\_^]
+WATAVH
+	<	u
+l$ I
+A^A\_
+VWATAVAWH
+t$HD
+	<	u
+pA_A^A\_^
+l$`A
+L$@H
+l$hE
+l$hH
+t$0L
+t$ E
+\$0H
+l$8H
+t$@H
+UVWATAUAVAWH
+\$hH
+ A_A^A]A\_^]
+T$ H
+OHc
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+H;A
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+x AVH
+l$8H
+t$@H
+|$HH
+D$":
+f9C
+L$ H
+T$"H
+fD9,Ku
+T$ H
+fD9,Bu
+fD9lE
+fD9;u
+T$ H
+T$ H
+T$ H
+8 wH
+fD90u
+f;0u>H
+T$ H
+T$ H
+f9)u
+9\[
+t~E3
+tYA;
+MxE3
+D$ M
+fD9 
+D$(3
+D$0H
+L$8H
+L+D$ H+
+CxfD90
+8-t)
+fD94xu
+tsA+
+fB9Ds
+fD94Au
+fD94Au
+D$"3
+L$0L
+t$(D
+L$ E3
+f9(t
+f9,Hu
+f9(u
+f9,su
+f9Ds
+f9,Su
+f9,{u
+|$HL
+D$X3
+L$XL
+D$0E
+D$(E3
+|$8E3
+fD9)u
+T$hH
+L$hD
+<OH;
+L$h+
+saH
+D$@H
+D$DE3
+l$8L
+fF94hu
+wxfA
+f9j
+@8-G
+fD9|M
+tiD8=
+fD9<su
+D9%bG
+L9cht
+u$D9%
+l$xA
+fD9<Hu
+L$@A
+d$ L
+L$DA
+D9d$Dt
+d$@A
+w0tb
+d$83
+d$0D
+d$(L
+D$@A
+d$83
+d$0D
+d$(L
+D9%<?
+u+L9eHt%
+t"D9%
+fG9$wu
+H9w H
+G tH
+8H9w H
+t%H9p H
+H tH
+H9p H
+|$0H
+|$0H
+L$pE
+;:u3A
+;:u-A
+;:u A
+@8=-
+u	@8=
+tP9=
+9=~
+f9<Ku
+<FfB
+D$(L
+D$ H
+t$(3
+|$ H
+u%9-
+|$ L
+f9,wu
+D$0H
+F(A+
+D$`I
+fD9$Au
+fD9$Au
+T$`H
+f94Cu
+f9|^
+f9<^u
+f9<Qu
+EL$(f
+L$@H
+D9d$P
+D9d$P
+L$P3
+L$P3
+L$P3
+L$4H
+fD9d$P
+D$*:
+;F,w
+fD9!
+\$0E3
+D$( 
+D$p@
+D$PA
+D$@H
+D$HH
+D$@H
+,CH;
+fD9/t	H
+L$pL
+|$ H
+D9t$p
+fD9/u	H
+L$pL
+|$ H
+tGD9t$pu@H
+L$xH
+D$xH
+l$(L
+f9,Cu
+f9+u
+fA9,@u
+fD9{
+f9,Cu
+fE9<Fu
+u,fA
+fE9~
+fD9x
+t$ +
+T$ H
+fD9LH,u
+G0HcW
+,CH;
+fD9.t	H
+L$hL
+|$ H
+D9t$h
+fD9.u	H
+L$hL
+|$ H
+tDD9t$hu=H
+L$hL
+|$ H
+fD9#t
+A	F8
+D$TA
+|$`3
+D9h
+d$HH
+|$TM
+l$(I
+L$XA
+T$DI
+d$HH
+I9~@
+|$TH
+T$@L
+L$HI
+L$XD
+M9N@A
+\$hD9L$X
+D9L$p
+|$xH
+|$(H
+D$xH
+9|$h
+9|$t
+|$@A
+\$H#
+D$DH
+D$@D
+\$HA
+L$`H
+D	@8
+D	A8
+D$D3
+t$ H
+9=DU
+D$DH
+L$@L
+D$DL
+t$ A
+D$DH
+L$@L
+|$@H
+D$0L
+L$DD
+|$(H
+D$DE
+t$ H
+D$DH
+L$@L
+L$ L
+L$ A
+D$ H
+D$ 
+D$PH
+t:fD9c
+D$HL
+D$`A
+D$dH
+T$@H
+D$PH
+D$0L
+L$LH
+D$H3
+D$(L
+D$pH
+D$pH
+t$@H
+D$@H
+\$8H
+L$PH
+L$0E3
+L$ E3
+l$XH
+D$p3
+D$xH
+fD9$Hu
+|$z:t)
+L$pM
+T$pH
+fD9c
+L$HH
+T$PA
+L$@H
+L$0L
+f9\$0
+f9\$2u
+L$4H
+D$4H
+D$0H
+D$(H
+D$@H
+D$ E
+L$HI
+D$@H
+L$`H
+L$(D
+T$XH
+D$ H
+9\$<t
+D$8H
+.uH=
+D$PH
+L$`D
+D$XH
+|$0H
+f94Cu
+f9LC
+T$@H
+D$(H
+L$lH
+D$lH
+L$09
+L$(H
+f9.u
+f9,_u
+L$8H
+L$(E3
+D$4H
+L$ D
+\$0D
+L$PH
+D$pH+
+D$@H=
+D	-f
+\$0A
+L$8H
+D$4H
+D$@u
+\$0A
+t$(A
+D$ H
+D$ H
+D$xZ
+\$|D
+d$LH
+D$xH
+D$XH
+|$`H
+\$p9
+|$xA
+|$0H
+t$ D
+D$xfA+
+L$xH
+D$xf
+D$zf
+T$PA
+D$PL
+D$PL
+D$xH
+L$PH
+D$PL
+D$`D
+D;t$X
+t{f9
+L$0L
+L$XH
+L$(3
+t$XA
+D$`L
+L$xL
+L$0H
+fD9,Au
+l$$H
+L$8H
+L$0H
+D$(H
+fD9m
+fD93t
+fF9,Cu
+fD9+
+D$( 
+D$ L
+uwfD
+oD9-
+L$ht"A
+D$jL
+D$(H
+L$pH
+D$pH
+fD9,xu
+D$pH
+fD9,~u
+D$0H
+L$0f
+f9,Bu
+L9=K
+\$8L
+D$0D
+t$(H
+t$@3
+fD9$xu
+L$0L
+D$`A
+D$ L
+D$hH
+ExE3
+D$0H
+D$0D
+D$0L
+D$0E3
+D$Hf
+D$HH
+D$tH
+D$pH
+|$`A
+;l$`
+D$tH
+D$pH
+\$0H
+t	f9
+f94Qu
+\$0H
+t$8H
+@SUVWH
+D$PD
+T$HH
+|$@D
+L$4H
+L$8H
+f94Qu
+f91u
+\$0H
+D$4L
+T$Pf
+l$8H
+f9\}
+T$`H
+D$8fD
+D$@H
+L$4L
+D$PH
+T$HH
+D$03
+\$0H
+L$8H
+\$0H
+_^][
+@USVWATAUAVAWH
+@8=:
+G f9
+D$ H
+<FtFfD9
+Ft:fD9
+|$(D
+fD9$Fu
+D$ D
+d$ I
+fD9$Fu
+fD9$Fu
+|$ E
+A_A^A]A\_^[]
+\$0H
+l$8H
+t$@H
+D$8f
+L$@H
+D$0H
+L$0H3
+D$0H
+T$.f
+D$$H
+L$0H3
+x UAUAWH
+D$<H
+D$8:
+t4f93t/H
+f94Cu
+L$ A
+HcD$ 
+fD9(t
+f90u
+D$8I
+T$XH
+D$8H
+A_A]]
+\$ UVWATAUAVAWH
+D$ L
+u6=@
+L$8H3
+@A_A^A]A\_^]
+f9TC
+\$ UVWATAUAVAWH
+D$ H
+D$(M
+fD9,wu
+fA;G
+fA;G
+fD9,Gu
+fD9,/t
+</mt
+</Mu
+L$0H3
+@A_A^A]A\_^]
+@8-a
+t'E3
+Cxf9(u)3
+\$0H
+l$8H
+t$@H
+x AVH
+@8-l
+t'E3
+Cxf9(u(3
+\$0H
+l$8H
+t$@H
+|$HH
+f9,Xu
+\$0H
+l$8H
+t$@H
+f94yu
+f94{u
+\$0H
+t$8H
+WATAUAVAWH
+fD9$nu
+fD9$_u
+tOD9%
+fD9$_u
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+u5H
+f90H
+\$0H
+t$8H
+x UATAUAVAWH
+fD9(uA3
+A_A^A]A\]
+f90u H
+f90u H
+(fD97
+T$$H
+T$$H
+T$(L
+T$(I
+L$ A
+|T0 s
+L$ E
+T$$H
+L$ E
+T$(I
+T$0fD
+{ ATAVAWH
+fD9 u
+D$8H
+fE9$Fu
+AfD9!u
+fD9$Au
+D$0H
+fE9d~
+fE9d~
+\$`H
+t$pH
+|$xH
+@A_A^A\
+VWATAVAWH
+d$8L
+L$@L
+d$0L
+D$PL
+d$(A
+|$P.uEH
+T$PI
+fD9$Fu
+T$PH
+fD9$hu
+A_A^A\_^
+UVWATAUAVAWH
+l$8L
+L$@L
+l$0L
+D$PA
+l$(L
+l$ E
+|$P.
+L$PH
+fD9,Au
+T$PI
+l<PH
+fD9,Hu
+T$PH
+l$8L
+L$@L
+l$0L
+D$PA
+l$(A
+l$ I
+fD9,Gu
+D$HA
+D$ H
+T$PI
+T$PI
+fD9,pu
+A_A^A]A\_^]
+!wht&
+wvth
+<tA-,
+t0-;
+{ ATAVAWH
+fD9 u
+D$0H
+fE9$Fu
+AfD9!u
+fD9$Au
+D$8H
+fE9d~
+fE9d~
+\$`H
+t$pH
+|$xH
+@A_A^A\
+L$ 3
+D$0H
+x UH
+H95q
+t$0uBE3
+t$ L
+D$H3
+\$PH
+D$@H
+D$ A
+H9L$@r
+EpH+
+D$8H
+t$ A
+tgHcL$8L
+D$4H
+HcT$8H
+L$4H
+t$ L
+D$0H
+D$0H
+|$0D
+f;D$`
+|$@PE
+tgf9|$Xv`
+D$XH
+L$HH
+VWAVH
+t&fD92t I
+D$pH
+D$(L
+t$ L
+L$xE3
+D$8H
+D$pH
+D$(H
+\$ L
+L$xE3
+L$0H;
+\$hH
+@A^_^
+M0H9M`t
+L$XA
+;|$Xt
+\$@H
+x AVH
+|$(A
+fD94Ku
+fD93u
+\$@H
+l$HH
+t$PH
+|$XH
+WAVAWH
+fE98
+fD9<Gu
+D$(H
+|$ A
+D$XH
+D$ A
+\$pI
+A_A^_
+\$ UVWATAUAVAWH
+fD9$Bu
+L$`H
+D$PA
+D$ H
+T$`I
+fD9'
+;\t
+fD9#u
+D$XH
+D$@H
+T$`H
+D$PfD
+D$8E3
+d$0E3
+L$PfD
+tffD9't`I
+fF9$wu
+L$PB
+D$(H
+|$ E3
+L$P3
+A_A^A]A\_^]
+x UATAUAVAWH
+L$@H
+A_A^A]A\]
+L$@E3
+4Ff9
+f9\F
+D$PM
+L$PI
+fD9f
+T$"H
+T$HH
+D$H*
+T$PI
+L$8H
+L$(A
+d$0@
+D$ E3
+T$0H
+L$(D
+T$PH
+D$ H
+|$8H
+D$PfB
+\$49
+\,PH
+L$PM
+L$PL
+d$ E3
+D$0H
+x AVH
+T$0H
+|$(H
+L$pH3
+x UATAUAVAWH
+L$hH
+\$@3
+\$<L
+|$HD
+\$(H
+L$ A
+|$pA
+|$P9
+L$0H
+\$ H
+T$pA
+f9D$pu:
+L$0H
+T$rD
+L$DD
+\$<D
+t$0L
+L$4t
+L$4u
+L$4H
+\$ H
+t$DL
+\$XL
+D$pD
+|$(D
+L$8H
+\$ H
+T$8A;
+L$<u:
+L$8H
+\$ H
+L$8D
+L$@fA
+L$<D
+L$@A
+L$0H
+D$PH
+D$PH
+L$0A;
+u/H9D$`~(D
+t$HL
+A_A^A]A\]
+f9<Cu
+|$8L
+L$@H
+|$0H
+T$VH
+|$(H
+f9|$Vt"
+D$@L
+L$BH
+D$ 3
+IxE3
+f98u
+f9<Cu
+f9|C
+\$0H
+` AUAVAWH
+\$4f
+\$$95:n
+l$(f
+t$ M
+fA97
+fA97
+?$tmE
+f94Ou
+|$(D+
+D$4f
+,LfE
+f94Ou
+<GD+
+f94Ou
+D$T\
+D$8H
+D$0x
+D$4L
+|$@H
+|$(D
+t$ 9t$0t1
+f94Ou
+f94Ou
+|$(A
+f94Ou
+f9t$4L
+f94Ou
+f94Ou
+f94Ou
+t$ H
+|$(I
+fA9tE
+fC9te
+95>i
+A_A^A]
+t$ WATAUAVAWH
+D$PH9C
+\$XH
+l$`H
+t$hH
+ A_A^A]A\_
+fB9,Iu
+\$0H
+l$8H
+t$@H
+D9 d
+L$ USWH
+D$0D
+D$(
+D$ 3
+D$( 
+D$ A
+D$0H
+D$(
+M7H3
+;C$s8
+\$0H
+t$8H
+T$8H
+D$8H
+L$:D
+L$0D
+L$PH3
+\$xH
+\$pH
+|$xH
+f90u
+\$0H
+t$8H
+\$0H
+f9<Qu
+\$0H
+8uXH
+;u;H
+\$0H
+l$8H
+t$@H
+\$0H
+8/t/H
+\$0H
+t$8H
+\$0H
+VWAVH
+T$pL
+L$PH
+9l$Pu
+T$pL
+\$XH
+l$`H
+0A^_^
+UVWATAUAVAWH
+T$`E3
+t$XE3
+D$PL
+d$Ht,D
+D$@A
+D$XL
+D;d$@D
+Cd$@H
+D$HH
+D$(H
+G0E3
+D$ E
+D$pI
+D$ H
+f9D$p
+D$pE
+t$(H
+D$H3
+D$DE
+L$pD
+|$ I
+D$XH
+T$pD
+D$DH
+L$@M
+D$H;
+D$DL
+L$pI
+D$XH
+T$pD
+D$DH
+L$@M
+t$@H
+D$pE
+D$0L
+t$(I
+T$pH
+T$PH
+D$pH
+D$0L
+t$(E
+D$DL
+L$pH
+D$XH
+T$pL
+L$PH
+L$@D
+D$DH
+l$PL
+|$`E3
+A_A^A]A\_^]
+x ATAVAWH
+L$0H
+\$0D
+L$43
+D$0%
+\$0D
+|$xH
+l$hH
+t$pH
+@A_A^A\
+T$ H
+D$$M
+L$`H
+T$ 3
+L$ E3
+x AVH
+H!|$ L
+L$0H
+;l$0u
+\$PH
+l$XH
+t$`H
+|$hH
+\$0H
+l$8H
+t$@H
+\$0H
+D$$:
+L$"H
+L$"H
+T$0f
+L$$f
+L$2H
+D$4\
+\$ UVWATAUAVAWH
+@u,3
+fD94Hu
+fD94xu
+`A_A^A]A\_^]
+L$(H3
+L$ L
+D$0H
+L$0f
+L$ A
+UVWATAUAVAWH
+D$8A
+T$ D
+|$ 3
+fB9,ku
+fB9l{
+fB9l{
+f9,su
+L$8H3
+@A_A^A]A\_^]
+D$"3
+UWATAVAWH
+T$0E3
+d$0L
+d$8A
+d$@H
+D$HD
+d$PH
+D$XD
+d$`H
+D$hD
+d$pH
+D$xD
+fE9$@u
+t$0H
+D9d$ t 
+A_A^A\_]
+D$03
+L$ L
+D$(H
+|$*:u
+|$,\u
+L$0H3
+\$XH
+UVWH
+T$ 3
+:t"f
+T$@H
+D$8H
+L$(9
+L$lH
+D$lH
+t$@@
+T$0H
+9m<
+9L$0
+t'E3
+L$(H
+D$lH
+t$ 3
+D$(L
+t$ H
+L$8H
+x AVH
+fD94Gu
+fD94su
+\$0H
+l$8H
+t$@H
+|$HH
+ A^H
+H9D$
+H9D$
+WATAUAVAWH
+fE9&
+RtIA+
+~fD9 
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+f9+tGH
+{f9(u
+\$0H
+l$8H
+t$@H
+x AVH
+fF94
+\$0H
+l$8H
+t$@H
+|$HH
+UVWH
+D$0H
+UWAVH
+f9\$Pt%f
+|$R:u
+f9\$Tu
+L$8H
+\$0L
+D$@H
+T$0H
+D$ A
+A^_]
+\$ UVWH
+D$ A
+@SVWH
+D$0H
+D$@H
+UVWH
+D$0E3
+D$@H
+UVWAVAWH
+fF9<Gu
+L$ H
+L$ H+
+sQfD
+D$ I
+A_A^_^]
+D$ H
+T$(H
+D$P3
+D$PH
+\$0H
+l$8H
+t$@H
+f9<Au
+D$PH
+|$8L
+L$@H
+|$0H
+|$(H
+L$PA
+|$P\u
+|$RL
+L$PH
+9|$DtAD
+L$BL
+VWAVH
+D$ H
+A^_^
+WATAUAVAWH
+L$ H
+D$0H;
+l$ H
+tOI;
+sJLc
+f9D}
+A_A^A]A\_
+WAVAWH
+D9y$ve
+fD9|A0u
+fD9|A0u
+\$@H
+t$PH
+ A_A^_
+UVWATAUAVAWH
+E@E3
+L$h3
+L$`D
+d$HD
+t$`D
+d$@I
+d$8H
+d$0L
+d$(D
+D9f$t
+tnfA;
+u7fE
+l$PLcv$I
+d$TA
+D$xL
+D$XH
+fF9Dj0u
+t$`H
+|$XH
+D$xH
+T$hH
+t$XH
+|$TL
+t$XI
+L;d$p
+M@H3
+A_A^A]A\_^]
+SVWATAUAVAWH
+D$8E3
+L$(A
+L$$H
+t$,E
+L$ A
+\$0A
+|$$A
+L$(H
+|$,E
+\$0D
+|$,Hc
+@A_A^A]A\_^[
+t$0H
+L$8L
+\$0H
+t$@H
+tEE3
+t)E3
+\$0H
+t$8H
+WATAUAVAWH
+t$0E3
+T$PE3
+D$PfA
+D$PH
+t$HE3
+t$@E3
+d$83
+t$0I
+H9t$Xt
+D$XH
+A_A^A]A\_
+\$PH
+|$`H
+D$PH
+D$0H
+D$@E3
+D$(E3
+D$@3
+UVWAVAWH
+D$83
+T$ D
+|$ E
+H9n
+f9,Gu
+L$8H3
+@A_A^_^]
+|$ A
+D$"f
+:EOF
+DISABLEEXTENSIONS
+ENABLEDELAYEDEXPANSION
+ENABLEEXTENSIONS
+<>+-*/%()|^&=,
++-~!
+fdpnxsatz
+tokens=
+skip=
+GOTO
+=ExitCodeAscii
+%08X
+=ExitCode
+\XCOPY.EXE
+usebackq
+eol=
+useback
+delims=
+ELSE
+COPYCMD
+=,;+/[] 	"
+&<|>
+()|&=,;"
+FOR/?
+IF/?
+REM/?
+CMD.EXE
+0123456789
+ERRORLEVEL
+DATE
+CMDCMDLINE
+CMDEXTVERSION
+TIME
+ :\*
+HIGHESTNUMANODENUMBER
+RANDOM
+PROMPT
+KEYS
+COMSPEC
+PATHEXT
+PATH
+SetConsoleInputExeNameW
+IsDebuggerPresent
+CopyFileExW
+KERNEL32.DLL
+.OCP
+MM/dd/yy
+AutoRun
+PathCompletionChar
+CompletionChar
+DefaultColor
+DelayedExpansion
+EnableExtensions
+DisableUNCCheck
+Software\Microsoft\Command Processor
+SetThreadUILanguage
+Software\Policies\Microsoft\Windows\System
+EXIST
+DEFINED
+%s
+cmd 
+DIRCMD
+HIGH
+BELOWNORMAL
+ABOVENORMAL
+AFFINITY
+%d.%d.%04d
+%2d%s%02d%s%02d%s%02d
+????????.???
+\\.\
+.CMD
+.BAT
+    /D /c"
+$P$G
+ext-ms-win-branding-winbrand-l1-1-0
+ext-ms-win-branding-winbrand-l1-1-0.dll
+ext-ms-win-cmd-util-l1-1-0
+ext-ms-win-cmd-util-l1-1-0.dll
+GeToken: (%x) '%s'
+cmd.exe
+MKLINK
+COLOR
+BREAK
+FTYPE
+ASSOC
+POPD
+PUSHD
+MOVE
+DPATH
+START
+TITLE
+ENDLOCAL
+SETLOCAL
+EXIT
+VERIFY
+CALL
+SHIFT
+PATH
+RMDIR
+MKDIR
+PROMPT
+PAUSE
+ECHO
+RENAME
+CHDIR
+COPY
+TYPE
+ERASE
+%.3s
+ %s 
+EQU 
+NEQ 
+LSS 
+LEQ 
+GTR 
+GEQ 
+DISABLEDELAYEDEXPANSION
+ FOR
+chdir 
+rmdir 
+mkdir 
+pushd 
+dd/MM/yy
+yy/MM/dd
+HH:mm:ss t
+aApP
+%c%c
+%s %s 
+%s %s%s 
+ %s 
+(%s) %s 
+%02d%s%02d%s
+%02d%s%02d%s%02d
+.COM;.EXE;.BAT;.CMD;.VBS;.JS;.WS;.MSC
+\CMD.EXE
+CMD Internal Error %s
+%04X-%04X
+%s=%s
+[%s]
+Null environment
+APerformUnaryOperation: '%c'
+APerformArithmeticOperation: '%c'
+%01C
+Software\Classes
+NTDLL.DLL
+NtQueryInformationProcess
+\Shell\Open\Command
+Copyright (c) Microsoft Corporation. All rights reserved.
+%WINDOWS_COPYRIGHT%
+LIST
+Ungetting: '%s'
+Unknown
+FOR /?
+IF /?
+REM /?
+DisableCMD
+Application
+System
+CRLF
+%s (%s) %s
+Cmd: %s  Type: %x 
+Args: `%s' 
+*** Unknown type: %x
+Redir: 
+ %x %c
+<noalias>
+\\?\
+ [.]
+ [..]
+ [...]
+%s  
+(%s)
+%5lu
+NODE
+NORMAL
+REALTIME
+SEPARATE
+SHARED
+WAIT
+"%s"
+ /K %s
+ /K 
+ &()[]{}^=;!%'+,`~
+NTFS
+REFS
+CSVFS
+RSDSw
+ 	.N
+cmd.pdb
+.text$lp00cmd.exe!20_pri7
+.text$lp01cmd.exe!20_pri7
+.text$mn
+.text$mn$00
+.text$np
+.text$x
+.text$zs
+.text$zy
+.text$zz
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$00
+.rdata$zz
+.rdata$zzzdbg
+.xdata
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$01
+.data$zz
+.bss
+.bss$00
+.bss$01
+.bss$dk00
+.bss$pr00
+.bss$zz
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+BrandingFormatString
+CmdBatNotificationStub
+SaferWorker
+MessageBeepStub
+GetVDMCurrentDirectoriesStub
+ShellExecuteWorker
+DoSHChangeNotify
+QueryFullProcessImageNameWStub
+WNetGetConnectionWStub
+WNetCancelConnection2WStub
+WNetAddConnection2WStub
+LookupAccountSidWStub
+FindFirstStreamWStub
+FindNextStreamWStub
+longjmp
+_tell
+wcsspn
+towupper
+_getch
+_get_osfhandle
+wcstol
+_vsnwprintf
+_wcsnicmp
+_wpopen
+feof
+ferror
+_pclose
+fgets
+memmove
+wcschr
+iswspace
+_wcsicmp
+iswdigit
+_wcsupr
+setlocale
+towlower
+realloc
+wcsrchr
+fprintf
+rand
+printf
+_errno
+wcstoul
+iswalpha
+wcsstr
+fflush
+_wtol
+srand
+time
+iswxdigit
+exit
+_setmode
+wcsncmp
+_pipe
+_ultoa
+swscanf
+_open_osfhandle
+_close
+_dup
+_dup2
+qsort
+_wcslwr
+free
+calloc
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+RtlCreateUnicodeStringFromAsciiz
+NtCancelSynchronousIoFile
+RtlNtStatusToDosError
+NtQueryInformationProcess
+NtSetInformationProcess
+NtQueryVolumeInformationFile
+NtSetInformationFile
+RtlDosPathNameToRelativeNtPathName_U_WithStatus
+NtOpenFile
+RtlReleaseRelativeName
+RtlFreeUnicodeString
+RtlFindLeastSignificantBit
+RtlDosPathNameToNtPathName_U
+NtFsControlFile
+RtlFreeHeap
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+CopyFileW
+api-ms-win-core-kernel32-legacy-l1-1-1.dll
+VirtualQuery
+GetCPInfo
+GetConsoleOutputCP
+SetThreadLocale
+GetProcAddress
+GetModuleHandleW
+SetFilePointer
+GetFullPathNameW
+FindFirstFileW
+FindNextFileW
+FindClose
+GetLastError
+CreateFileW
+CloseHandle
+ReadFile
+MultiByteToWideChar
+GetFileSize
+WideCharToMultiByte
+GetStdHandle
+FlushConsoleInputBuffer
+HeapAlloc
+GetProcessHeap
+RevertToSelf
+HeapFree
+AcquireSRWLockShared
+ReleaseSRWLockShared
+GetConsoleScreenBufferInfo
+ReadConsoleW
+SetConsoleCursorPosition
+FillConsoleOutputCharacterW
+WriteConsoleW
+GetFileType
+GetUserDefaultLCID
+GetLocaleInfoW
+SetLocalTime
+GetSystemTime
+SystemTimeToFileTime
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+GetDateFormatW
+GetTimeFormatW
+GetLocalTime
+GetConsoleMode
+SetConsoleMode
+GetEnvironmentVariableW
+GetCommandLineW
+GetNumaHighestNodeNumber
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableW
+SetEnvironmentStringsW
+GetConsoleTitleW
+SetErrorMode
+InitializeProcThreadAttributeList
+UpdateProcThreadAttribute
+DeleteProcThreadAttributeList
+GetStartupInfoW
+CreateProcessAsUserW
+CreateProcessW
+GetFileAttributesW
+NeedCurrentDirectoryForExePathW
+RegOpenKeyExW
+RegCloseKey
+SetLastError
+RegQueryValueExW
+RegEnumKeyExW
+RegDeleteKeyExW
+RegDeleteValueW
+RegCreateKeyExW
+RegSetValueExW
+LoadLibraryExW
+ReadProcessMemory
+MoveFileWithProgressW
+MoveFileExW
+SetConsoleTitleW
+LocalFree
+SearchPathW
+WriteFile
+SetFilePointerEx
+GlobalAlloc
+GlobalFree
+GetVolumeInformationW
+TryAcquireSRWLockExclusive
+ReleaseSRWLockExclusive
+ExpandEnvironmentStringsW
+InitializeCriticalSection
+SetConsoleCtrlHandler
+GetWindowsDirectoryW
+GetModuleFileNameW
+EnterCriticalSection
+LeaveCriticalSection
+GetVersion
+GetDriveTypeW
+GetFileAttributesExW
+OpenThread
+GetCurrentThreadId
+HeapSetInformation
+VirtualFree
+VirtualAlloc
+HeapReAlloc
+HeapSize
+DuplicateHandle
+FlushFileBuffers
+FormatMessageW
+GetACP
+ScrollConsoleScreenBufferW
+FillConsoleOutputAttribute
+SetConsoleTextAttribute
+CreateDirectoryW
+SetFileAttributesW
+SetEndOfFile
+DeleteFileW
+SetFileTime
+SetCurrentDirectoryW
+TerminateProcess
+WaitForSingleObject
+GetExitCodeProcess
+GetCurrentDirectoryW
+GetFileInformationByHandleEx
+RemoveDirectoryW
+CompareFileTime
+GetFileSecurityW
+GetSecurityDescriptorOwner
+DeviceIoControl
+GetDiskFreeSpaceExW
+FindFirstFileExW
+GetThreadGroupAffinity
+GetNumaNodeProcessorMaskEx
+ResumeThread
+GetThreadLocale
+GetVolumePathNameW
+CreateSymbolicLinkW
+CreateHardLinkW
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-memory-l1-1-2.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-console-l2-1-0.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-security-base-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-1.dll
+api-ms-win-core-systemtopology-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-file-l2-1-1.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-io-l1-1-1.dll
+api-ms-win-core-processtopology-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+lstrcmpiW
+lstrcmpW
+api-ms-win-core-string-obsolete-l1-1-0.dll
+SetProcessAffinityMask
+api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+ApiSetQueryApiSetPresence
+api-ms-win-core-apiquery-l1-1-0.dll
+__iob_func
+NtOpenThreadToken
+NtClose
+NtOpenProcessToken
+NtQueryInformationToken
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+_local_unwind
+_setjmp
+memcmp
+memcpy
+memset
+wcscmp
+IDI_APPICON
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.FileSystem.CMD"
+    type="win32"
+/>
+<description>Windows Command Processor</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+<application  xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+        <dpiAware  xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+</application>
+</assembly>
+wwwwwwwwwwwwwwwwwwwww
+aer@
+Se%ae`
+%6Ru'
+cCBR_p
+CB@@
+RRRRP%
+%pt4
+CCCC@40`P@ 
+CCCC
+cG?CCRRRRP`R
+4qaCCRCCCB
+pqacG%%apppppppaB
+prRRRPa
+wwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwww
+vSe'
+se%%%%% R
+u%6RRRRRPp
+wwwwwwwwwwwwwww
+wwwwwwwwp
+wwwwwwww
+((((&&(&&&(&(&&&&&&(((#&&###
+*)))))))))))))))))))))
+PNG
+IHDR
+eIDATx
+ """"""""""""""""""""""""""""""""""""""""
+W+{
+9W{+
+D<x^
+$;0	
+YaS'
+>p[@
+H\+*
+xQ:~
+ @*
+'Px0&D
+JJqI
+xeD{
+|:}m
+Sh(PO
+t#}}
+lj<X
+`e]
+Br5|
+oV~z
+E$uwM
+q5^2
+"IAI
+Rq%`
+^:HD
+Y&^\
+b$j-0
+h6Eg
+"  w
+M5B#
+XXX8Pvh8v
+mlmm
+7?T|
+!677
+*lmm
+nccc
+],//cuu
+m,--
+Ot@3
+`ii	+++<
+G4FS
+PU,//
+X]]=
+;wxN
+n<DSbb
+D3blc
+`ii	7o
+!KD4)#
+Dtt*
+DxWp
+DD0?
+j "0
+cTE 
+nLLb
+iH4-N
+'+D4
+0+Dt
+NDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+IEND
+xtrE
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Windows Command Processor
+FileVersion
+10.0.10240.16384 (th1.150709-1700)
+InternalName
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+Cmd.Exe
+ProductName
+Microsoft
+ Windows
+ Operating System
+ProductVersion
+10.0.10240.16384
+VarFileInfo
+Translation
+en-US

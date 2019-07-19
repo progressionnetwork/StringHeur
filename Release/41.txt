@@ -1,0 +1,775 @@
+Line: Rich status:  simple text 
+Line: .text status:  local path or dir 
+Line: `.rdata status:  local path or dir 
+Line: @.data status:  local path or dir 
+Line: .pdata status:  local path or dir 
+Line: @.didat status:  local path or dir 
+Line: .rsrc status:  local path or dir 
+Line: @.reloc status:  local path or dir 
+Line: x UATAUAVAWH status:  simple text 
+Line: x ATAVAWH status:  simple text 
+Line: fD9 u status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: gfff status:  simple text 
+Line: IpE3 status:  simple text 
+Line: Npu status:  simple text 
+Line: x UH status:  simple text 
+Line: f9,xu status:  simple text 
+Line: f9,Au status:  simple text 
+Line: f9,yu status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fD9M status:  simple text 
+Line: SVWH status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: KxE3 status:  simple text 
+Line: fD9,Vu status:  simple text 
+Line: fD9,Cu status:  simple text 
+Line: fD9lC status:  simple text 
+Line: fD9,Cu status:  simple text 
+Line: fD9,Su status:  simple text 
+Line: fD98 status:  simple text 
+Line: fD9lM status:  simple text 
+Line: fD9,xu status:  simple text 
+Line: VWAVH status:  simple text 
+Line: L95n status:  simple text 
+Line: x AVH status:  simple text 
+Line: x ATAVAWH status:  simple text 
+Line: MxE3 status:  simple text 
+Line: fD98tcH status:  simple text 
+Line:  v5f98 status:  simple text 
+Line: x AVH status:  simple text 
+Line: fD90 status:  simple text 
+Line: x AVH status:  simple text 
+Line: fD90 status:  simple text 
+Line: x AVH status:  simple text 
+Line: fD90 status:  simple text 
+Line: x AVH status:  simple text 
+Line: x AVH status:  simple text 
+Line: x AVH status:  simple text 
+Line: UVWH status:  simple text 
+Line: UVWH status:  simple text 
+Line: x AVH status:  simple text 
+Line: fA9LF status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: fD9DG status:  simple text 
+Line: MxE3 status:  simple text 
+Line: MxE3 status:  simple text 
+Line: x ATAVAWH status:  simple text 
+Line: x ATAVAWH status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: USVWATAUAVAWH status:  simple text 
+Line: fA91 status:  simple text 
+Line: fE9DE status:  simple text 
+Line: HcMo3 status:  simple text 
+Line: HcMoH status:  simple text 
+Line: EwtP status:  simple text 
+Line: LcEoL status:  simple text 
+Line: HcMoH status:  simple text 
+Line: fE9LE status:  simple text 
+Line: x AVH status:  simple text 
+Line: YxE3 status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fD94Cu status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: VWATAVAWH status:  simple text 
+Line: fD94Vu status:  simple text 
+Line: fD94Au status:  simple text 
+Line: f90t7 status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fD94Au status:  simple text 
+Line: f9,Bu status:  simple text 
+Line: f9,Bu status:  simple text 
+Line: f9,Au status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: GpLc status:  simple text 
+Line: H9_x status:  simple text 
+Line: f98t status:  simple text 
+Line: SVWATAUAVAWH status:  simple text 
+Line: t3fE status:  simple text 
+Line: tmHc status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: UVATAVAWH status:  simple text 
+Line: SATAUAVH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fD9  status:  simple text 
+Line: fD9  status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: MHE3 status:  simple text 
+Line: fG9dw status:  simple text 
+Line: tffA status:  simple text 
+Line: tUHc status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: rtmf status:  simple text 
+Line: fE9, status:  simple text 
+Line: upfD90 status:  simple text 
+Line: USVWH status:  simple text 
+Line: f9,Yu status:  simple text 
+Line: t5Hc status:  simple text 
+Line: IpE3 status:  simple text 
+Line: fA9E status:  simple text 
+Line: t.L+ status:  local path or dir 
+Line: p UH status:  simple text 
+Line: f9,Yu status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fE9tG0u status:  simple text 
+Line: fD97 status:  simple text 
+Line: fD94Gu status:  simple text 
+Line: x UATAUAVAWH status:  simple text 
+Line: D8f  status:  simple text 
+Line: VWAVH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: SVWATAUAVAWH status:  simple text 
+Line: f98tDA status:  simple text 
+Line: fA98u status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: fD98 status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: t-E3 status:  simple text 
+Line: H SWH status:  simple text 
+Line: x AUAVAWH status:  simple text 
+Line: fE98u status:  simple text 
+Line: fD9c status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: x UH status:  simple text 
+Line: fD9dE status:  simple text 
+Line: g.A; status:  local path or dir 
+Line: UVWATAUAVAWH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: UVWH status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: UAVAWH status:  simple text 
+Line: x AVH status:  simple text 
+Line: UVWH status:  simple text 
+Line: f94Cu status:  simple text 
+Line: VWAVH status:  simple text 
+Line: f9,Wu status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fD98 status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: fD9o status:  simple text 
+Line: VWATAVAWH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fF9lw status:  simple text 
+Line: fD9,Gu status:  simple text 
+Line: fF9lw status:  simple text 
+Line: WATAVH status:  simple text 
+Line: VWATAVAWH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line:  H3E H3E status:  simple text 
+Line: x AVH status:  simple text 
+Line: f9C status:  simple text 
+Line: fD9,Ku status:  simple text 
+Line: fD9,Bu status:  simple text 
+Line: fD9lE status:  simple text 
+Line: fD90u status:  simple text 
+Line: MxE3 status:  simple text 
+Line: fD9  status:  simple text 
+Line: CxfD90 status:  simple text 
+Line: fD94xu status:  simple text 
+Line: fB9Ds status:  simple text 
+Line: fD94Au status:  simple text 
+Line: fD94Au status:  simple text 
+Line: f9,Hu status:  simple text 
+Line: f9,su status:  simple text 
+Line: f9Ds status:  simple text 
+Line: f9,Su status:  simple text 
+Line: saH status:  simple text 
+Line: fF94hu status:  simple text 
+Line: wxfA status:  simple text 
+Line: f9j status:  simple text 
+Line: L9cht status:  simple text 
+Line: w0tb status:  simple text 
+Line: H9w H status:  simple text 
+Line: H9p H status:  simple text 
+Line: f9,wu status:  simple text 
+Line: f94Cu status:  simple text 
+Line: f9,Cu status:  simple text 
+Line: f9,Cu status:  simple text 
+Line: u,fA status:  simple text 
+Line: fD9x status:  simple text 
+Line: fD9LH,u status:  simple text 
+Line: G0HcW status:  simple text 
+Line: fD9.t	H status:  local path or dir 
+Line: fD9.u	H status:  local path or dir 
+Line: fD9c status:  simple text 
+Line: f94Cu status:  simple text 
+Line: f9LC status:  simple text 
+Line: f9.u status:  simple text 
+Line: f9,_u status:  simple text 
+Line: fD9,Au status:  simple text 
+Line: fD9m status:  simple text 
+Line: fD93t status:  simple text 
+Line: fF9,Cu status:  simple text 
+Line: uwfD status:  simple text 
+Line: oD9- status:  simple text 
+Line: fD9,xu status:  simple text 
+Line: f9,Bu status:  simple text 
+Line: ExE3 status:  simple text 
+Line: f94Qu status:  simple text 
+Line: f94Qu status:  simple text 
+Line: f91u status:  simple text 
+Line: G f9 status:  simple text 
+Line: T$.f status:  local path or dir 
+Line: x UAUAWH status:  simple text 
+Line: f94Cu status:  simple text 
+Line: f90u status:  simple text 
+Line: f9TC status:  simple text 
+Line: fD9,wu status:  simple text 
+Line: fD9,Gu status:  simple text 
+Line: x AVH status:  simple text 
+Line: f9,Xu status:  simple text 
+Line: f94yu status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: u5H status:  simple text 
+Line: f90H status:  simple text 
+Line: x UATAUAVAWH status:  simple text 
+Line: f90u H status:  simple text 
+Line: f90u H status:  simple text 
+Line: fD9 u status:  simple text 
+Line: VWATAVAWH status:  simple text 
+Line: |$P.uEH status:  local path or dir 
+Line: UVWATAUAVAWH status:  simple text 
+Line: |$P. status:  local path or dir 
+Line: fD9,Au status:  simple text 
+Line: fD9,Hu status:  simple text 
+Line: fD9,Gu status:  simple text 
+Line: fD9,pu status:  simple text 
+Line: wvth status:  simple text 
+Line: fD9 u status:  simple text 
+Line: x UH status:  simple text 
+Line: H95q status:  simple text 
+Line: VWAVH status:  simple text 
+Line: x AVH status:  simple text 
+Line: fD94Ku status:  simple text 
+Line: fD93u status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: fE98 status:  simple text 
+Line: x UATAUAVAWH status:  simple text 
+Line: fD9f status:  simple text 
+Line: x AVH status:  simple text 
+Line: x UATAUAVAWH status:  simple text 
+Line: IxE3 status:  simple text 
+Line: f98u status:  simple text 
+Line: fA97 status:  simple text 
+Line: fA97 status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: f94Ou status:  simple text 
+Line: fA9tE status:  simple text 
+Line: fC9te status:  simple text 
+Line: fB9,Iu status:  simple text 
+Line: M7H3 status:  simple text 
+Line: f90u status:  simple text 
+Line: VWAVH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: G0E3 status:  simple text 
+Line: x ATAVAWH status:  simple text 
+Line: x AVH status:  simple text 
+Line: fD94Hu status:  simple text 
+Line: fD94xu status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: fB9,ku status:  simple text 
+Line: f9,su status:  simple text 
+Line: UWATAVAWH status:  simple text 
+Line: UVWH status:  simple text 
+Line: x AVH status:  simple text 
+Line: fD94Gu status:  simple text 
+Line: fD94su status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: x AVH status:  simple text 
+Line: fF94 status:  simple text 
+Line: UVWH status:  simple text 
+Line: UWAVH status:  simple text 
+Line: UVWH status:  simple text 
+Line: UVWAVAWH status:  simple text 
+Line: sQfD status:  simple text 
+Line: VWAVH status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: sJLc status:  simple text 
+Line: WAVAWH status:  simple text 
+Line: UVWATAUAVAWH status:  simple text 
+Line: u7fE status:  simple text 
+Line: fF9Dj0u status:  simple text 
+Line: SVWATAUAVAWH status:  simple text 
+Line: tEE3 status:  simple text 
+Line: WATAUAVAWH status:  simple text 
+Line: UVWAVAWH status:  simple text 
+Line: H9n status:  simple text 
+Line: f9,Gu status:  simple text 
+Line: DISABLEEXTENSIONS status:  simple text 
+Line: ENABLEDELAYEDEXPANSION status:  simple text 
+Line: ENABLEEXTENSIONS status:  simple text 
+Line: fdpnxsatz status:  simple text 
+Line: GOTO status:  simple text 
+Line: \XCOPY.EXE status:  local path or dir 
+Line: usebackq status:  simple text 
+Line: useback status:  simple text 
+Line: ELSE status:  simple text 
+Line: COPYCMD status:  simple text 
+Line: CMD.EXE status:  simple text 
+Line: ERRORLEVEL status:  simple text 
+Line: DATE status:  simple text 
+Line: CMDCMDLINE status:  simple text 
+Line: CMDEXTVERSION status:  simple text 
+Line: TIME status:  simple text 
+Line: HIGHESTNUMANODENUMBER status:  simple text 
+Line: RANDOM status:  simple text 
+Line: PROMPT status:  simple text 
+Line: KEYS status:  simple text 
+Line: COMSPEC status:  simple text 
+Line: PATHEXT status:  simple text 
+Line: PATH status:  simple text 
+Line: SetConsoleInputExeNameW status:  simple text 
+Line: IsDebuggerPresent status:  simple text 
+Line: CopyFileExW status:  simple text 
+Line: KERNEL32.DLL status:  simple text 
+Line: .OCP status:  local path or dir 
+Line: AutoRun status:  simple text 
+Line: PathCompletionChar status:  simple text 
+Line: CompletionChar status:  simple text 
+Line: DefaultColor status:  simple text 
+Line: DelayedExpansion status:  simple text 
+Line: EnableExtensions status:  simple text 
+Line: DisableUNCCheck status:  simple text 
+Line: SetThreadUILanguage status:  simple text 
+Line: EXIST status:  simple text 
+Line: DEFINED status:  simple text 
+Line: cmd  status:  simple text 
+Line: DIRCMD status:  simple text 
+Line: HIGH status:  simple text 
+Line: BELOWNORMAL status:  simple text 
+Line: ABOVENORMAL status:  simple text 
+Line: AFFINITY status:  simple text 
+Line: %d.%d.%04d status:  local path or dir 
+Line: ????????.??? status:  local path or dir 
+Line: \\.\ status:  local path or dir 
+Line: .CMD status:  local path or dir 
+Line: .BAT status:  local path or dir 
+Line: ext-ms-win-branding-winbrand-l1-1-0 status:  simple text 
+Line: ext-ms-win-branding-winbrand-l1-1-0.dll status:  simple text 
+Line: ext-ms-win-cmd-util-l1-1-0 status:  simple text 
+Line: ext-ms-win-cmd-util-l1-1-0.dll status:  simple text 
+Line: cmd.exe status:  simple text 
+Line: MKLINK status:  simple text 
+Line: COLOR status:  simple text 
+Line: BREAK status:  simple text 
+Line: FTYPE status:  simple text 
+Line: ASSOC status:  simple text 
+Line: POPD status:  simple text 
+Line: PUSHD status:  simple text 
+Line: MOVE status:  simple text 
+Line: DPATH status:  simple text 
+Line: START status:  simple text 
+Line: TITLE status:  simple text 
+Line: ENDLOCAL status:  simple text 
+Line: SETLOCAL status:  simple text 
+Line: EXIT status:  simple text 
+Line: VERIFY status:  simple text 
+Line: CALL status:  simple text 
+Line: SHIFT status:  simple text 
+Line: PATH status:  simple text 
+Line: RMDIR status:  simple text 
+Line: MKDIR status:  simple text 
+Line: PROMPT status:  simple text 
+Line: PAUSE status:  simple text 
+Line: ECHO status:  simple text 
+Line: RENAME status:  simple text 
+Line: CHDIR status:  simple text 
+Line: COPY status:  simple text 
+Line: TYPE status:  simple text 
+Line: ERASE status:  simple text 
+Line: %.3s status:  local path or dir 
+Line: EQU  status:  simple text 
+Line: NEQ  status:  simple text 
+Line: LSS  status:  simple text 
+Line: LEQ  status:  simple text 
+Line: GTR  status:  simple text 
+Line: GEQ  status:  simple text 
+Line: DISABLEDELAYEDEXPANSION status:  simple text 
+Line:  FOR status:  simple text 
+Line: chdir  status:  simple text 
+Line: rmdir  status:  simple text 
+Line: mkdir  status:  simple text 
+Line: pushd  status:  simple text 
+Line: aApP status:  simple text 
+Line: .COM;.EXE;.BAT;.CMD;.VBS;.JS;.WS;.MSC status:  local path or dir 
+Line: \CMD.EXE status:  local path or dir 
+Line: Null environment status:  simple text 
+Line: NTDLL.DLL status:  simple text 
+Line: NtQueryInformationProcess status:  simple text 
+Line: Copyright (c) Microsoft Corporation. All rights reserved. status:  local path or dir 
+Line: LIST status:  simple text 
+Line: Unknown status:  simple text 
+Line: DisableCMD status:  simple text 
+Line: Application status:  simple text 
+Line: System status:  simple text 
+Line: CRLF status:  simple text 
+Line:  [.] status:  local path or dir 
+Line:  [..] status:  local path or dir 
+Line:  [...] status:  local path or dir 
+Line: NODE status:  simple text 
+Line: NORMAL status:  simple text 
+Line: REALTIME status:  simple text 
+Line: SEPARATE status:  simple text 
+Line: SHARED status:  simple text 
+Line: WAIT status:  simple text 
+Line: NTFS status:  simple text 
+Line: REFS status:  simple text 
+Line: CSVFS status:  simple text 
+Line: RSDSw status:  simple text 
+Line:  	.N status:  local path or dir 
+Line: cmd.pdb status:  simple text 
+Line: .text$lp00cmd.exe!20_pri7 status:  local path or dir 
+Line: .text$lp01cmd.exe!20_pri7 status:  local path or dir 
+Line: .text$mn status:  local path or dir 
+Line: .text$mn$00 status:  local path or dir 
+Line: .text$np status:  local path or dir 
+Line: .text$x status:  local path or dir 
+Line: .text$zs status:  local path or dir 
+Line: .text$zy status:  local path or dir 
+Line: .text$zz status:  local path or dir 
+Line: .idata$5 status:  local path or dir 
+Line: .00cfg status:  local path or dir 
+Line: .CRT$XCA status:  local path or dir 
+Line: .CRT$XCAA status:  local path or dir 
+Line: .CRT$XCZ status:  local path or dir 
+Line: .CRT$XIA status:  local path or dir 
+Line: .CRT$XIAA status:  local path or dir 
+Line: .CRT$XIY status:  local path or dir 
+Line: .CRT$XIZ status:  local path or dir 
+Line: .gfids$x status:  local path or dir 
+Line: .rdata status:  local path or dir 
+Line: .rdata$00 status:  local path or dir 
+Line: .rdata$zz status:  local path or dir 
+Line: .rdata$zzzdbg status:  local path or dir 
+Line: .xdata status:  local path or dir 
+Line: .didat$2 status:  local path or dir 
+Line: .didat$3 status:  local path or dir 
+Line: .didat$4 status:  local path or dir 
+Line: .didat$6 status:  local path or dir 
+Line: .didat$7 status:  local path or dir 
+Line: .idata$2 status:  local path or dir 
+Line: .idata$3 status:  local path or dir 
+Line: .idata$4 status:  local path or dir 
+Line: .idata$6 status:  local path or dir 
+Line: .data status:  local path or dir 
+Line: .data$01 status:  local path or dir 
+Line: .data$zz status:  local path or dir 
+Line: .bss status:  local path or dir 
+Line: .bss$00 status:  local path or dir 
+Line: .bss$01 status:  local path or dir 
+Line: .bss$dk00 status:  local path or dir 
+Line: .bss$pr00 status:  local path or dir 
+Line: .bss$zz status:  local path or dir 
+Line: .pdata status:  local path or dir 
+Line: .didat$5 status:  local path or dir 
+Line: .rsrc$01 status:  local path or dir 
+Line: .rsrc$02 status:  local path or dir 
+Line: BrandingFormatString status:  simple text 
+Line: CmdBatNotificationStub status:  simple text 
+Line: SaferWorker status:  simple text 
+Line: MessageBeepStub status:  simple text 
+Line: GetVDMCurrentDirectoriesStub status:  simple text 
+Line: ShellExecuteWorker status:  simple text 
+Line: DoSHChangeNotify status:  simple text 
+Line: QueryFullProcessImageNameWStub status:  simple text 
+Line: WNetGetConnectionWStub status:  simple text 
+Line: WNetCancelConnection2WStub status:  simple text 
+Line: WNetAddConnection2WStub status:  simple text 
+Line: LookupAccountSidWStub status:  simple text 
+Line: FindFirstStreamWStub status:  simple text 
+Line: FindNextStreamWStub status:  simple text 
+Line: longjmp status:  simple text 
+Line: wcsspn status:  simple text 
+Line: towupper status:  simple text 
+Line: wcstol status:  simple text 
+Line: feof status:  simple text 
+Line: ferror status:  simple text 
+Line: fgets status:  simple text 
+Line: memmove status:  simple text 
+Line: wcschr status:  simple text 
+Line: iswspace status:  simple text 
+Line: iswdigit status:  simple text 
+Line: setlocale status:  simple text 
+Line: towlower status:  simple text 
+Line: realloc status:  simple text 
+Line: wcsrchr status:  simple text 
+Line: fprintf status:  simple text 
+Line: rand status:  simple text 
+Line: printf status:  simple text 
+Line: wcstoul status:  simple text 
+Line: iswalpha status:  simple text 
+Line: wcsstr status:  simple text 
+Line: fflush status:  simple text 
+Line: srand status:  simple text 
+Line: time status:  simple text 
+Line: iswxdigit status:  simple text 
+Line: exit status:  simple text 
+Line: wcsncmp status:  simple text 
+Line: swscanf status:  simple text 
+Line: qsort status:  simple text 
+Line: free status:  simple text 
+Line: calloc status:  simple text 
+Line: msvcrt.dll status:  simple text 
+Line: RtlCreateUnicodeStringFromAsciiz status:  simple text 
+Line: NtCancelSynchronousIoFile status:  simple text 
+Line: RtlNtStatusToDosError status:  simple text 
+Line: NtQueryInformationProcess status:  simple text 
+Line: NtSetInformationProcess status:  simple text 
+Line: NtQueryVolumeInformationFile status:  simple text 
+Line: NtSetInformationFile status:  simple text 
+Line: RtlDosPathNameToRelativeNtPathName_U_WithStatus status:  simple text 
+Line: NtOpenFile status:  simple text 
+Line: RtlReleaseRelativeName status:  simple text 
+Line: RtlFreeUnicodeString status:  simple text 
+Line: RtlFindLeastSignificantBit status:  simple text 
+Line: RtlDosPathNameToNtPathName_U status:  simple text 
+Line: NtFsControlFile status:  simple text 
+Line: RtlFreeHeap status:  simple text 
+Line: RtlCaptureContext status:  simple text 
+Line: RtlLookupFunctionEntry status:  simple text 
+Line: RtlVirtualUnwind status:  simple text 
+Line: ntdll.dll status:  simple text 
+Line: CopyFileW status:  simple text 
+Line: api-ms-win-core-kernel32-legacy-l1-1-1.dll status:  simple text 
+Line: VirtualQuery status:  simple text 
+Line: GetCPInfo status:  simple text 
+Line: GetConsoleOutputCP status:  simple text 
+Line: SetThreadLocale status:  simple text 
+Line: GetProcAddress status:  simple text 
+Line: GetModuleHandleW status:  simple text 
+Line: SetFilePointer status:  simple text 
+Line: GetFullPathNameW status:  simple text 
+Line: FindFirstFileW status:  simple text 
+Line: FindNextFileW status:  simple text 
+Line: FindClose status:  simple text 
+Line: GetLastError status:  simple text 
+Line: CreateFileW status:  simple text 
+Line: CloseHandle status:  simple text 
+Line: ReadFile status:  simple text 
+Line: MultiByteToWideChar status:  simple text 
+Line: GetFileSize status:  simple text 
+Line: WideCharToMultiByte status:  simple text 
+Line: GetStdHandle status:  simple text 
+Line: FlushConsoleInputBuffer status:  simple text 
+Line: HeapAlloc status:  simple text 
+Line: GetProcessHeap status:  simple text 
+Line: RevertToSelf status:  simple text 
+Line: HeapFree status:  simple text 
+Line: AcquireSRWLockShared status:  simple text 
+Line: ReleaseSRWLockShared status:  simple text 
+Line: GetConsoleScreenBufferInfo status:  simple text 
+Line: ReadConsoleW status:  simple text 
+Line: SetConsoleCursorPosition status:  simple text 
+Line: FillConsoleOutputCharacterW status:  simple text 
+Line: WriteConsoleW status:  simple text 
+Line: GetFileType status:  simple text 
+Line: GetUserDefaultLCID status:  simple text 
+Line: GetLocaleInfoW status:  simple text 
+Line: SetLocalTime status:  simple text 
+Line: GetSystemTime status:  simple text 
+Line: SystemTimeToFileTime status:  simple text 
+Line: FileTimeToLocalFileTime status:  simple text 
+Line: FileTimeToSystemTime status:  simple text 
+Line: GetDateFormatW status:  simple text 
+Line: GetTimeFormatW status:  simple text 
+Line: GetLocalTime status:  simple text 
+Line: GetConsoleMode status:  simple text 
+Line: SetConsoleMode status:  simple text 
+Line: GetEnvironmentVariableW status:  simple text 
+Line: GetCommandLineW status:  simple text 
+Line: GetNumaHighestNodeNumber status:  simple text 
+Line: GetEnvironmentStringsW status:  simple text 
+Line: FreeEnvironmentStringsW status:  simple text 
+Line: SetEnvironmentVariableW status:  simple text 
+Line: SetEnvironmentStringsW status:  simple text 
+Line: GetConsoleTitleW status:  simple text 
+Line: SetErrorMode status:  simple text 
+Line: InitializeProcThreadAttributeList status:  simple text 
+Line: UpdateProcThreadAttribute status:  simple text 
+Line: DeleteProcThreadAttributeList status:  simple text 
+Line: GetStartupInfoW status:  simple text 
+Line: CreateProcessAsUserW status:  simple text 
+Line: CreateProcessW status:  simple text 
+Line: GetFileAttributesW status:  simple text 
+Line: NeedCurrentDirectoryForExePathW status:  simple text 
+Line: RegOpenKeyExW status:  simple text 
+Line: RegCloseKey status:  simple text 
+Line: SetLastError status:  simple text 
+Line: RegQueryValueExW status:  simple text 
+Line: RegEnumKeyExW status:  simple text 
+Line: RegDeleteKeyExW status:  simple text 
+Line: RegDeleteValueW status:  simple text 
+Line: RegCreateKeyExW status:  simple text 
+Line: RegSetValueExW status:  simple text 
+Line: LoadLibraryExW status:  simple text 
+Line: ReadProcessMemory status:  simple text 
+Line: MoveFileWithProgressW status:  simple text 
+Line: MoveFileExW status:  simple text 
+Line: SetConsoleTitleW status:  simple text 
+Line: LocalFree status:  simple text 
+Line: SearchPathW status:  simple text 
+Line: WriteFile status:  simple text 
+Line: SetFilePointerEx status:  simple text 
+Line: GlobalAlloc status:  simple text 
+Line: GlobalFree status:  simple text 
+Line: GetVolumeInformationW status:  simple text 
+Line: TryAcquireSRWLockExclusive status:  simple text 
+Line: ReleaseSRWLockExclusive status:  simple text 
+Line: ExpandEnvironmentStringsW status:  simple text 
+Line: InitializeCriticalSection status:  simple text 
+Line: SetConsoleCtrlHandler status:  simple text 
+Line: GetWindowsDirectoryW status:  simple text 
+Line: GetModuleFileNameW status:  simple text 
+Line: EnterCriticalSection status:  simple text 
+Line: LeaveCriticalSection status:  simple text 
+Line: GetVersion status:  simple text 
+Line: GetDriveTypeW status:  simple text 
+Line: GetFileAttributesExW status:  simple text 
+Line: OpenThread status:  simple text 
+Line: GetCurrentThreadId status:  simple text 
+Line: HeapSetInformation status:  simple text 
+Line: VirtualFree status:  simple text 
+Line: VirtualAlloc status:  simple text 
+Line: HeapReAlloc status:  simple text 
+Line: HeapSize status:  simple text 
+Line: DuplicateHandle status:  simple text 
+Line: FlushFileBuffers status:  simple text 
+Line: FormatMessageW status:  simple text 
+Line: GetACP status:  simple text 
+Line: ScrollConsoleScreenBufferW status:  simple text 
+Line: FillConsoleOutputAttribute status:  simple text 
+Line: SetConsoleTextAttribute status:  simple text 
+Line: CreateDirectoryW status:  simple text 
+Line: SetFileAttributesW status:  simple text 
+Line: SetEndOfFile status:  simple text 
+Line: DeleteFileW status:  simple text 
+Line: SetFileTime status:  simple text 
+Line: SetCurrentDirectoryW status:  simple text 
+Line: TerminateProcess status:  simple text 
+Line: WaitForSingleObject status:  simple text 
+Line: GetExitCodeProcess status:  simple text 
+Line: GetCurrentDirectoryW status:  simple text 
+Line: GetFileInformationByHandleEx status:  simple text 
+Line: RemoveDirectoryW status:  simple text 
+Line: CompareFileTime status:  simple text 
+Line: GetFileSecurityW status:  simple text 
+Line: GetSecurityDescriptorOwner status:  simple text 
+Line: DeviceIoControl status:  simple text 
+Line: GetDiskFreeSpaceExW status:  simple text 
+Line: FindFirstFileExW status:  simple text 
+Line: GetThreadGroupAffinity status:  simple text 
+Line: GetNumaNodeProcessorMaskEx status:  simple text 
+Line: ResumeThread status:  simple text 
+Line: GetThreadLocale status:  simple text 
+Line: GetVolumePathNameW status:  simple text 
+Line: CreateSymbolicLinkW status:  simple text 
+Line: CreateHardLinkW status:  simple text 
+Line: Sleep status:  simple text 
+Line: UnhandledExceptionFilter status:  simple text 
+Line: SetUnhandledExceptionFilter status:  simple text 
+Line: GetCurrentProcess status:  simple text 
+Line: QueryPerformanceCounter status:  simple text 
+Line: GetCurrentProcessId status:  simple text 
+Line: GetSystemTimeAsFileTime status:  simple text 
+Line: GetTickCount status:  simple text 
+Line: api-ms-win-core-memory-l1-1-2.dll status:  simple text 
+Line: api-ms-win-core-localization-l1-2-1.dll status:  simple text 
+Line: api-ms-win-core-console-l1-1-0.dll status:  simple text 
+Line: api-ms-win-core-libraryloader-l1-2-0.dll status:  simple text 
+Line: api-ms-win-core-file-l1-2-1.dll status:  simple text 
+Line: api-ms-win-core-errorhandling-l1-1-1.dll status:  simple text 
+Line: api-ms-win-core-handle-l1-1-0.dll status:  simple text 
+Line: api-ms-win-core-string-l1-1-0.dll status:  simple text 
+Line: api-ms-win-core-processenvironment-l1-2-0.dll status:  simple text 
+Line: api-ms-win-core-console-l2-1-0.dll status:  simple text 
+Line: api-ms-win-core-heap-l1-2-0.dll status:  simple text 
+Line: api-ms-win-security-base-l1-2-0.dll status:  simple text 
+Line: api-ms-win-core-synch-l1-2-0.dll status:  simple text 
+Line: api-ms-win-core-sysinfo-l1-2-1.dll status:  simple text 
+Line: api-ms-win-core-timezone-l1-1-0.dll status:  simple text 
+Line: api-ms-win-core-datetime-l1-1-1.dll status:  simple text 
+Line: api-ms-win-core-systemtopology-l1-1-0.dll status:  simple text 
+Line: api-ms-win-core-processthreads-l1-1-2.dll status:  simple text 
+Line: api-ms-win-core-registry-l1-1-0.dll status:  simple text 
+Line: api-ms-win-core-file-l2-1-1.dll status:  simple text 
+Line: api-ms-win-core-heap-l2-1-0.dll status:  simple text 
+Line: api-ms-win-core-io-l1-1-1.dll status:  simple text 
+Line: api-ms-win-core-processtopology-l1-2-0.dll status:  simple text 
+Line: api-ms-win-core-profile-l1-1-0.dll status:  simple text 
+Line: lstrcmpiW status:  simple text 
+Line: lstrcmpW status:  simple text 
+Line: api-ms-win-core-string-obsolete-l1-1-0.dll status:  simple text 
+Line: SetProcessAffinityMask status:  simple text 
+Line: api-ms-win-core-processtopology-obsolete-l1-1-0.dll status:  simple text 
+Line: ApiSetQueryApiSetPresence status:  simple text 
+Line: api-ms-win-core-apiquery-l1-1-0.dll status:  simple text 
+Line: NtOpenThreadToken status:  simple text 
+Line: NtClose status:  simple text 
+Line: NtOpenProcessToken status:  simple text 
+Line: NtQueryInformationToken status:  simple text 
+Line: ResolveDelayLoadedAPI status:  simple text 
+Line: DelayLoadFailureHook status:  simple text 
+Line: api-ms-win-core-delayload-l1-1-1.dll status:  simple text 
+Line: memcmp status:  simple text 
+Line: memcpy status:  simple text 
+Line: memset status:  simple text 
+Line: wcscmp status:  simple text 
+Line: IDI_APPICON status:  simple text 
+Line: wwwwwwwwwwwwwwwwwwwww status:  simple text 
+Line: cCBR_p status:  simple text 
+Line: CCCC status:  simple text 
+Line: prRRRPa status:  simple text 
+Line: wwwwwwwwwwwwwwwwwwwww status:  simple text 
+Line: wwwwwwwwwwwwwww status:  simple text 
+Line: wwwwwwwwwwwwwww status:  simple text 
+Line: wwwwwwwwp status:  simple text 
+Line: wwwwwwww status:  simple text 
+Line: eIDATx status:  simple text 
+Line: JJqI status:  simple text 
+Line: h6Eg status:  simple text 
+Line: XXX8Pvh8v status:  simple text 
+Line: mlmm status:  simple text 
+Line: nccc status:  simple text 
+Line: m,-- status:  simple text 
+Line: G4FS status:  simple text 
+Line: D3blc status:  simple text 
+Line: DxWp status:  simple text 
+Line: cTE  status:  simple text 
+Line: nLLb status:  simple text 
+Line: iH4-N status:  simple text 
+Line: NDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD status:  simple text 
+Line: IEND status:  simple text 
+Line: xtrE status:  simple text 
+Line: VS_VERSION_INFO status:  simple text 
+Line: StringFileInfo status:  simple text 
+Line: CompanyName status:  simple text 
+Line: Microsoft Corporation status:  simple text 
+Line: FileDescription status:  simple text 
+Line: Windows Command Processor status:  simple text 
+Line: FileVersion status:  simple text 
+Line: 10.0.10240.16384 (th1.150709-1700) status:  local path or dir 
+Line: InternalName status:  simple text 
+Line: LegalCopyright status:  simple text 
+Line:  Microsoft Corporation. All rights reserved. status:  simple text 
+Line: OriginalFilename status:  simple text 
+Line: Cmd.Exe status:  simple text 
+Line: ProductName status:  simple text 
+Line: Microsoft status:  simple text 
+Line:  Windows status:  simple text 
+Line:  Operating System status:  simple text 
+Line: ProductVersion status:  simple text 
+Line: 10.0.10240.16384 status:  local path or dir 
+Line: VarFileInfo status:  simple text 
+Line: Translation status:  simple text 
+Line: en-US status:  simple text 
